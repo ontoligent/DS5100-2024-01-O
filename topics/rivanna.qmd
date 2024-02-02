@@ -33,7 +33,7 @@ Find under "Clusters" in the menu. 
 You can also access the remote command line via SSH on your local computer. Just enter the following on the command line of either a PC or Mac:
 
 ```bash
-ssh -Y <userid>@hpc.rivanna.virginia.edu
+ssh -Y <userid>@rivanna.hpc.virginia.edu
 ```
 
 Replace `<userid>` with your UVA Net ID, e.g. `abc2x`. 
