@@ -144,7 +144,7 @@
     "href": "modules/m02/m02-intro.html#readings",
     "title": "M02 Introducing Python",
     "section": "Readings",
-    "text": "Readings\n\nRequired\n\n\nKatz and Katz 2019, Section 1, Preparing the Workspace\n\n\nLutz, Learning Python, Part I: Getting Started, Chapter 2\n\n\nLutz, Learning Python, Part I: Getting Started, Chapter 3\n\n\nLutz, Learning Python, Part II: Types and Operations, Chapters 4–9\n\n\n\n\nOptional\n\n\nKatz and Katz 2019, Section 1, First Steps in Coding - Variables and Data Types\n\n\nBuilt-in Types (Official)\n\n\nPython Data Types (GFG)\n\n\nPython Operators (W3S)\n\n\nImmutable vs Mutable Data Types in Python (Medium)"
+    "text": "Readings\n\nRequired\n\nKatz and Katz 2019, Section 1, Preparing the Workspace\nLutz, Learning Python, Part I: Getting Started, Chapter 2\nLutz, Learning Python, Part I: Getting Started, Chapter 3\nLutz, Learning Python, Part II: Types and Operations, Chapters 4–9\n\n\n\nOptional\n\nKatz and Katz 2019, Section 1, First Steps in Coding - Variables and Data Types\nBuilt-in Types (Official)\nPython Data Types (GFG)\nPython Operators (W3S)\nImmutable vs Mutable Data Types in Python (Medium)"
   },
   {
     "objectID": "topics/on-data.html#code-should-be-simple",
@@ -592,7 +592,7 @@
     "href": "modules/m03/m03-intro.html#readings",
     "title": "M03 Control Structures",
     "section": "Readings",
-    "text": "Readings\n\nRequired\n\n\nLutz, 2019, Part III, Chapter 10. Introducing Python Statements\n\n\nLutz, 2019, Part III, Chapter 11. Assignments, Expressions, and Prints Read only up to and including “The Python 3.X print Function.”\n\n\nLutz, 2019, Part III, Chapter 12. if Tests and Syntax Rules\n\n\nLutz, 2019, Part III, Chapter 13. while and for Loops\n\n\nLutz, 2019, Part III, Chapter 14. Iterations and Comprehensions\n\n\nLutz, 2019, Part III, Chapter 15: The Documentations Interlude\n\n\n\n\nOptional\n\n\nVariables, Expressions, Statements, Types (Python Notes)\n\n\nMore Control Flow Tools (Python Docs)\n\n\nIf … Then (W3S)\n\n\nIterators (GFG)"
+    "text": "Readings\n\nRequired\n\nLutz, 2019, Part III, Chapter 10. Introducing Python Statements\nLutz, 2019, Part III, Chapter 11. Assignments, Expressions, and Prints\n\nRead only up to and including “The Python 3.X print Function.”\n\nLutz, 2019, Part III, Chapter 12. if Tests and Syntax Rules\nLutz, 2019, Part III, Chapter 13. while and for Loops\nLutz, 2019, Part III, Chapter 14. Iterations and Comprehensions\nLutz, 2019, Part III, Chapter 15: The Documentations Interlude\n\n\n\nOptional\n\nVariables, Expressions, Statements, Types (Python Notes)\nMore Control Flow Tools (Python Docs)\nIf … Then (W3S)\nIterators (GFG)"
   },
   {
     "objectID": "topics/vals-vars-expressions-statements.html#definitions",
@@ -704,7 +704,7 @@
     "href": "modules/m04/m04-intro.html#readings",
     "title": "M04 Functions",
     "section": "Readings",
-    "text": "Readings\n\nRequired\n\n\nLutz 2019, Part IV, Chapter 16: Function Basics\n\n\nLutz 2019, Part IV, Chapter 17: Scopes Non-local is for advanced users\n\n\nLutz 2019, Part IV, Chapter 18. Arguments\n\n\nLutz 2019, Part IV, Chapter 19: Advanced Function Topics\n\n\n\n\nOptional\n\n\nMcKinney, Python for Data Analysis, Appendix A: Python Language Essentials\n\n\nRead section on Functions\n\n\nFunctions (W3S)\n\n\nGlobal and Local Variables (GFG)\n\n\nLambda Functions (Real Python)"
+    "text": "Readings\n\nRequired\n\nLutz 2019, Part IV, Chapter 16: Function Basics\nLutz 2019, Part IV, Chapter 17: Scopes\n\nNon-local is for advanced users.\n\nLutz 2019, Part IV, Chapter 18. Arguments\nLutz 2019, Part IV, Chapter 19: Advanced Function Topics\n\n\n\nOptional\n\nMcKinney, 2023, Python for Data Analysis, “3.2: Functions”\nFunctions (W3S)\nGlobal and Local Variables (GFG)\nLambda Functions (Real Python)"
   },
   {
     "objectID": "notebooks/M04_PythonFunctions/M04-02-Functions.html#introduction",
@@ -977,7 +977,7 @@
     "href": "modules/m05/m05-intro.html#readings",
     "title": "M05 NumPy",
     "section": "Readings",
-    "text": "Readings\n\nRequired\n\n\nMcKinney 2017, Chapter 4: Numpy Basics\n\n\n\n\nOptional\n\n\nMcKinney 2017, Appendix A. Advanced NumPy: A.4 Broadcasting\n\n\nNumPy for Beginners (Official)"
+    "text": "Readings\n\nRequired\n\nMcKinney 2023, Chapter 4: Numpy Basics\n\n\n\nOptional\n\nMcKinney 2023, Appendix A. Advanced NumPy: A.3 Broadcasting\nNumPy for Beginners (Official)"
   },
   {
     "objectID": "notebooks/M05_NumPy/M05-02-NumpyBasics.html#numpy",
@@ -1257,7 +1257,7 @@
     "href": "modules/m06/m06-intro.html#readings",
     "title": "M06 Pandas",
     "section": "Readings",
-    "text": "Readings\n\nRequired\n\nMcKinney 2017, Chapter 5: Getting Started with Pandas\nGetting Started in Pandas (Official)"
+    "text": "Readings\n\nRequired\n\nMcKinney 2023, Chapter 5: Getting Started with Pandas\nGetting Started in Pandas (Official)"
   },
   {
     "objectID": "notebooks/M06_Pandas/M06-01-Pandas1.html#what-is-pandas",
@@ -1537,7 +1537,7 @@
     "href": "modules/m07/m07-intro.html#readings",
     "title": "M07 Classes",
     "section": "Readings",
-    "text": "Readings\n\n\nClasses (Official Python)\n\n\nLutz 2019, Part VI, Classes and OOP, Chapters 26–29."
+    "text": "Readings\n\nClasses (Official Python)\nLutz 2019, Part VI, Classes and OOP, Chapters 26–29."
   },
   {
     "objectID": "topics/what-is-oop.html#the-basic-idea",
@@ -2076,7 +2076,7 @@
     "href": "modules/m10/m10-intro.html#readings",
     "title": "M10 Basic R",
     "section": "Readings",
-    "text": "Readings\n\nRequired\n\n\nW3Schools R Tutorial\n\n\nW3Schools R Data Structures\n\n\n\n\nOptional\n\n\nYau, R Tutorial, “R Introduction” ← Super concise"
+    "text": "Readings\n\nRequired\n\nW3Schools R Tutorial\nW3Schools R Data Structures\n\n\n\nOptional\n\nYau, R Tutorial, “R Introduction”\n\nSuper concise."
   },
   {
     "objectID": "notebooks/M10_RBasics/M10-01-DataTypesAndStructures.html#preliminaries",
@@ -2174,14 +2174,14 @@
     "href": "modules/m11/m11-intro.html#topics",
     "title": "M11 Dplyr",
     "section": "Topics",
-    "text": "Topics\n\nThe Tidyverse\nTibbles, a ligthweight version of data frames\nData transformations using dplyr verbs"
+    "text": "Topics\n\nThe Tidyverse\nTibbles, a lightweight version of data frames\nData transformations using dplyr verbs"
   },
   {
     "objectID": "modules/m11/m11-intro.html#readings",
     "href": "modules/m11/m11-intro.html#readings",
     "title": "M11 Dplyr",
     "section": "Readings",
-    "text": "Readings\n\nRequired\n\n\nRFDS Explore 5 Data Transformation (dplyr)\n\n\nRDFS Wrangle 10 Tibbles\n\n\nRDFS Wrangle 11 Data Import\n\n\nRDFS Wrangle 12 Tidy data\n\n\n\n\nOptional\n\n\nPeng, 2022, “Managing Data Frames with the dplyr package”"
+    "text": "Readings\n\nRequired\n\nRFDS Explore 5 Data Transformation\n\n(dplyr)\n\nRDFS Wrangle 10 Tibbles\nRDFS Wrangle 11 Data Import\nRDFS Wrangle 12 Tidy data\n\n\n\nOptional\n\nPeng, 2022, “Managing Data Frames with the dplyr package”"
   },
   {
     "objectID": "notebooks/M11_RDplyr/M11-01-Tibbles.html",
@@ -2356,7 +2356,7 @@
     "href": "modules/m12/m12-intro.html#readings",
     "title": "M12 Visualization",
     "section": "Readings",
-    "text": "Readings\n\nRequired\n\n\nW3Schools R Graphics\n\n\nRFDS Explore 3 Data Visualization (ggplot2)\n\n\nRDFS Communicate 27 R Markdown\n\n\nRDFS Communicate 28 Graphics for Communication\n\n\n\n\nOptional\n\n\nggplot2 (Tidyverse)\n\n\nThe Complete ggplot2 Tutorial (r-statitics.co)\n\n\nR Markdown (RStudio)\n\n\nOverview (RStudio)\n\n\nIndex of Pages (RStudio)\n\n\nknitr (Yihui Xie)  \n\n\nR Markdown: the Definitive Guide (Yihui Xie, J. J. Allaire, Garrett Grolemund)\n\n\nR Markdown Cookbook (Yihui Xie, Christophe Dervieux, Emily Riederer)\n\n\nGetting Started with R Markdown — Guide and Cheatsheet (Dataquest)\n\n\nGallery (RStudio)"
+    "text": "Readings\n\nRequired\n\nW3Schools R Graphics\nRFDS Explore 3 Data Visualization\n\nggplot2\n\nRDFS Communicate 27 R Markdown\nRDFS Communicate 28 Graphics for Communication\n\n\n\nOptional\n\nggplot2 (Tidyverse)\nThe Complete ggplot2 Tutorial (r-statitics.co)\nR Markdown (RStudio)\nOverview (RStudio)\nIndex of Pages (RStudio)\nknitr (Yihui Xie)\nR Markdown: the Definitive Guide (Yihui Xie, J. J. Allaire, Garrett Grolemund)\nR Markdown Cookbook (Yihui Xie, Christophe Dervieux, Emily Riederer)\nGetting Started with R Markdown — Guide and Cheatsheet (Dataquest)\nGallery (RStudio)"
   },
   {
     "objectID": "notebooks/M12_RViz/M12-01-GGPlot.html",
