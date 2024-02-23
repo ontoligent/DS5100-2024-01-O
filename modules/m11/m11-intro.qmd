@@ -1,23 +1,21 @@
 # M11 Dplyr
 
 ## Topics
-- The Tidyverse
-- Tibbles, a ligthweight version of data frames
-- Data transformations using dplyr verbs
+
+-   The Tidyverse
+-   Tibbles, a lightweight version of data frames
+-   Data transformations using dplyr verbs
 
 ## Readings
 
 ### Required
 
-<ul>
-<li><a target="_new" href="https://r4ds.had.co.nz/transform.html">RFDS Explore 5 Data Transformation</a><span>&nbsp;</span>(<code>dplyr</code>)</li>
-<li><a target="_new" href="https://r4ds.had.co.nz/tibbles.html">RDFS Wrangle 10 Tibbles</a></li>
-<li><a target="_new" href="https://r4ds.had.co.nz/data-import.html">RDFS Wrangle 11 Data Import</a></li>
-<li><a target="_new" href="https://r4ds.had.co.nz/tidy-data.html">RDFS Wrangle 12 Tidy data</a></li>
-</ul>
+-   [RFDS Explore 5 Data Transformation](https://r4ds.had.co.nz/transform.html)
+    -   (`dplyr`)
+-   [RDFS Wrangle 10 Tibbles](https://r4ds.had.co.nz/tibbles.html)
+-   [RDFS Wrangle 11 Data Import](https://r4ds.had.co.nz/data-import.html)
+-   [RDFS Wrangle 12 Tidy data](https://r4ds.had.co.nz/tidy-data.html)
 
 ### Optional
 
-<ul>
-<li><a target="_new" href="https://bookdown.org/rdpeng/rprogdatascience/managing-data-frames-with-the-dplyr-package.html">Peng, 2022, "Managing Data Frames with the dplyr package"</a></li>
-</ul>
+-   [Peng, 2022, "Managing Data Frames with the dplyr package"](https://bookdown.org/rdpeng/rprogdatascience/managing-data-frames-with-the-dplyr-package.html)

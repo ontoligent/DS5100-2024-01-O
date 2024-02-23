@@ -1,6 +1,7 @@
 # M09 Modules
 
 ## Topics
+
 - How Python organizes code into modules, packages, and libraries
 - How to write your own modules
 - How to package and share your modules 

@@ -1,6 +1,7 @@
 # M13 Agile
 
 ## Topics
+
 - General concept of project management (PM)
 - Rationale for PM
 - Main types of PM

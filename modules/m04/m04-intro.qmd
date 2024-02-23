@@ -1,6 +1,7 @@
 # M04 Functions
 
 ## Topics
+
 - Built-in functions
 - User-defined functions
 - Variable scope
@@ -8,31 +9,20 @@
 - Design of functions
 - Recursion
 
-<!-- ## Outcomes
-- Be able to use Pythons native and imported functions
-- Be able to write your own functions
-- Understand concept of variable scope 
-- Be able to write lambda functions and understand their use cases
-- Grasp basic principles of function design
-- Implement simple recursion functions -->
 
 ## Readings 
 
 ### Required
 
-<ul>
-<li><a target="_new" href="https://learning.oreilly.com/library/view/learning-python-5th/9781449355722/ch16.html">Lutz 2019, Part IV, Chapter 16: Function Basics</a></li>
-<li><a target="_new" href="https://learning.oreilly.com/library/view/learning-python-5th/9781449355722/ch17.html">Lutz 2019, Part IV, Chapter 17: Scopes</a> Non-local is for advanced users</li>
-<li><a target="_new" href="https://learning.oreilly.com/library/view/learning-python-5th/9781449355722/ch18.html">Lutz 2019, Part IV, Chapter 18. Arguments</a></li>
-<li><a target="_new" href="https://learning.oreilly.com/library/view/learning-python-5th/9781449355722/ch19.html">Lutz 2019, Part IV, Chapter 19: Advanced Function Topics</a></li>
-</ul>
+-   [Lutz 2019, Part IV, Chapter 16: Function Basics](https://learning.oreilly.com/library/view/learning-python-5th/9781449355722/ch16.html)
+-   [Lutz 2019, Part IV, Chapter 17: Scopes](https://learning.oreilly.com/library/view/learning-python-5th/9781449355722/ch17.html)
+    - Non-local is for advanced users.
+-   [Lutz 2019, Part IV, Chapter 18. Arguments](https://learning.oreilly.com/library/view/learning-python-5th/9781449355722/ch18.html)
+-   [Lutz 2019, Part IV, Chapter 19: Advanced Function Topics](https://learning.oreilly.com/library/view/learning-python-5th/9781449355722/ch19.html)
 
 ### Optional
 
-<ul>
-<li>McKinney, Python for Data Analysis,<span>&nbsp;</span><a target="_new" href="https://learning.oreilly.com/library/view/python-for-data/9781449323592/apa.html">Appendix A: Python Language Essentials</a></li>
-<li>Read section on Functions</li>
-<li><a target="_new" href="https://www.w3schools.com/python/python_functions.asp">Functions (W3S)</a></li>
-<li><a target="_new" href="https://www.geeksforgeeks.org/global-local-variables-python/?ref=lbp">Global and Local Variables (GFG)</a></li>
-<li><a target="_new" href="https://realpython.com/python-lambda/">Lambda Functions (Real Python)</a></li>
-</ul>
+-   [McKinney, 2023, Python for Data Analysis, "3.2: Functions"](https://wesmckinney.com/book/python-builtin#functions)
+-   [Functions (W3S)](https://www.w3schools.com/python/python_functions.asp)
+-   [Global and Local Variables (GFG)](https://www.geeksforgeeks.org/global-local-variables-python/?ref=lbp)
+-   [Lambda Functions (Real Python)](https://realpython.com/python-lambda/)
