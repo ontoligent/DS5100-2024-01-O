@@ -4,7 +4,7 @@
 
 - 30 multiple choice / multiple answer questions
 - 3 hour time limit
-- Available all day Friday, August 11th
+- Available from Friday, 3 May at 11:59PM to Thursday, 9 May, at 11:59PM
 - No code writing, but some questions reference code snippets
 - Open book, but non-collaborative and no Google, etc.
 
